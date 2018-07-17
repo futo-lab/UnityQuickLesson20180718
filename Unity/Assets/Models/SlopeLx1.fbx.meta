@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bc1afab3624f54bc4ba84e1fdf9d086c
+guid: 609b1e3e2c80b49d0aee6525b210443e
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -8,7 +8,8 @@ ModelImporter:
     2100000: No Name
     2300000: //RootNode
     3300000: //RootNode
-    4300000: SloopLx2
+    4300000: SloopLx1
+    4300002: SlopeLx1
   externalObjects: {}
   materials:
     importMaterials: 1
